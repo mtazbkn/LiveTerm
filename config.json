@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "masontazuk",
+  "name": "Mason Tazuk",
+  "ascii": "mt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/mtazbkn",
+    "instagram": "https://www.instagram.com/tazukmason/?hl=en"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "tazukmason@proton.me",
+  "ps1_hostname": "mason",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/masontazuk",
+    "cashapp": "$coolfella67"
   },
   "colors": {
     "light": {
